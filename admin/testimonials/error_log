@@ -1,0 +1,6 @@
+[02-Jun-2017 17:55:17 Europe/Lisbon] PHP Fatal error:  Call to undefined function length() in /home/oseuback/public_html/la_cigale/admin/testimonials/action_testimonials.php on line 103
+[02-Jun-2017 17:55:21 Europe/Lisbon] PHP Fatal error:  Call to undefined function length() in /home/oseuback/public_html/la_cigale/admin/testimonials/action_testimonials.php on line 103
+[04-Jun-2017 01:18:36 Europe/Lisbon] PHP Warning:  mysqli_connect(): (HY000/2013): Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/oseuback/public_html/la_cigale/admin/connect.php on line 13
+[16-Jun-2017 13:23:14 Europe/Lisbon] PHP Notice:  Undefined variable: lang in /home/oseuback/public_html/la_cigale/admin/testimonials/action_testimonials.php on line 86
+[16-Jun-2017 13:23:14 Europe/Lisbon] PHP Notice:  Undefined variable: lang in /home/oseuback/public_html/la_cigale/admin/testimonials/action_testimonials.php on line 97
+[22-Jun-2017 11:37:20 Europe/Lisbon] PHP Notice:  Use of undefined constant default_charset - assumed 'default_charset' in /home/oseuback/public_html/la_cigale/languages/lang.de.php on line 8

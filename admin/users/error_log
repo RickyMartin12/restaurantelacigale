@@ -1,0 +1,29 @@
+[31-May-2017 13:40:21 Europe/Lisbon] PHP Notice:  Undefined index: email_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 46
+[31-May-2017 13:40:21 Europe/Lisbon] PHP Notice:  Undefined index: tipo_pri_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 65
+[31-May-2017 13:40:21 Europe/Lisbon] PHP Notice:  Undefined index: privilegios_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 70
+[31-May-2017 13:41:14 Europe/Lisbon] PHP Notice:  Undefined index: email_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 46
+[31-May-2017 13:41:14 Europe/Lisbon] PHP Notice:  Undefined index: tipo_pri_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 65
+[31-May-2017 13:41:14 Europe/Lisbon] PHP Notice:  Undefined index: privilegios_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 70
+[31-May-2017 13:44:51 Europe/Lisbon] PHP Notice:  Undefined index: email_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 46
+[31-May-2017 13:44:51 Europe/Lisbon] PHP Notice:  Undefined index: tipo_pri_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 65
+[31-May-2017 13:44:51 Europe/Lisbon] PHP Notice:  Undefined index: privilegios_username in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 70
+[31-May-2017 13:55:47 Europe/Lisbon] PHP Notice:  Undefined index: logo in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 83
+[31-May-2017 13:59:55 Europe/Lisbon] PHP Notice:  Undefined variable: response in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 157
+[31-May-2017 14:00:39 Europe/Lisbon] PHP Notice:  Undefined variable: response in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 157
+[31-May-2017 16:44:15 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[31-May-2017 21:05:09 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[01-Jun-2017 00:03:03 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[02-Jun-2017 23:22:50 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[03-Jun-2017 15:23:40 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[03-Jun-2017 22:59:00 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[04-Jun-2017 23:35:21 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[05-Jun-2017 07:17:38 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[06-Jun-2017 10:59:39 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[08-Jun-2017 15:01:24 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[09-Jun-2017 08:03:28 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[16-Jun-2017 13:27:45 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[16-Jun-2017 14:53:07 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[19-Jun-2017 11:29:39 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[19-Jun-2017 11:35:59 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[21-Jun-2017 23:31:05 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24
+[22-Jun-2017 07:19:33 Europe/Lisbon] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/oseuback/public_html/la_cigale/admin/users/users_action.php on line 24

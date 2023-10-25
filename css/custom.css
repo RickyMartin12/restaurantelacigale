@@ -1,0 +1,46 @@
+.color_letter_idioma {
+    color: #fff;
+    float: right;
+    left: calc(97% - 120px);
+    font-size: 15px;
+    z-index: 9999;
+}
+
+.text_idioma
+{
+    color: #fff;
+    opacity: 0.7;
+    font-size: 15px;
+}
+
+.text_idioma.active
+{
+    opacity: 1;
+}
+
+
+.color_letter_idioma2 {
+    color: #fff;
+    float: right;
+    left: calc(97% - 120px);
+    font-size: 15px;
+    z-index: 9999;
+}
+
+.text_idioma2
+{
+    color: #fff;
+    opacity: 0.7;
+    font-size: 15px;
+}
+
+.text_idioma2.active
+{
+    opacity: 1;
+}
+
+a:hover, a:focus {
+    color: #fff;
+    opacity: 1;
+}
+

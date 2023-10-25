@@ -1,0 +1,336 @@
+body{
+    padding-top: 70px;
+    min-height: 200vh;
+}
+
+
+.panel-default.my_black {
+    background-color: #000!important;
+    color: #fff;
+    border-radius: 0px!important;
+}
+span#ct {
+    font-size: 21px;
+    color: #fff;
+}
+.logo-img
+{
+    width: 140px;
+    position: absolute;
+    float:right;
+    left: calc(95% - 90px);
+    top: 4px;
+}
+
+@media (max-width: 400px)
+{
+  .logo-img
+{
+    position: relative;
+    float:left;
+    left:0px;
+  }
+  
+  span#ct {
+    font-size: 14px;
+    color: #fff;
+}
+
+  
+  
+}
+
+
+button.btn.dropdown-toggle {
+    margin-left: calc(50% - 50px);
+    margin-top: -22px;
+}
+
+.open>.dropdown-menu {
+    margin-left: calc(50% - 50px);
+    display: block;
+    z-index: 1000000;
+    background: #414042;
+}
+
+
+.dropdown-menu>li>a:hover {
+    color: #fff!important;
+    background-color: #414042!important;
+    opacity: 1!important;
+}
+.dropdown-menu>li>a {
+    display: block;
+    color: #fff!important;
+    background-color: #414042!important;
+    opacity: 0.8!important;
+}
+
+.sidebar-nav li.active a {
+    color: #B0C5D3;
+}
+
+
+.filter-button{height:34px;}
+
+        table .btn-sm{height: 30px!important; margin:0 5px;}
+
+        td{padding: 4px;}
+
+        table{font-size: 13px;}
+
+        body {padding-top: 50px;}
+
+        #example tr{height:35px;}
+
+        #example thead th{ border-bottom: 1px solid #333;}
+
+        #example tfoot th{ border-top: 1px solid #333;}
+
+
+
+
+
+.text-orange
+
+{
+
+    color: #ffb231!important;
+
+}
+
+
+
+.text-white
+
+{
+
+    color: #fff!important;
+
+}
+
+
+
+
+
+
+
+.navbar-inverse {
+
+    background-color: #000!important;
+
+    border: 0px;
+
+    border-radius: 0px;
+
+}
+
+
+
+.panel.panel-default.my_black
+
+{
+
+    background-color: #414042!important;
+
+    color: #fff;
+
+    border-radius: 0px!important;
+
+
+
+}
+
+
+
+
+
+.logo-nav
+
+{
+
+    position: absolute;
+
+    margin-top: 0px;
+
+    left: calc(50% - 100px);
+
+}
+
+
+
+.row{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#wrapper {
+    padding-left: 70px;
+    transition: all .4s ease 0s;
+}
+
+#sidebar-wrapper {
+    margin-left: -150px;
+    left: 70px;
+    width: 150px;
+    background: #222;
+    position: absolute;
+    z-index: 10000;
+    transition: all .4s ease 0s;
+}
+
+.sidebar-nav {
+    display: block;
+    float: left;
+    width: 250px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#page-content-wrapper {
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+    height: auto;
+}
+#wrapper.active {
+    padding-left: 250px;
+}
+
+
+
+
+#page-content-wrapper {
+  width: 100%;
+}
+
+#sidebar-wrapper {
+    margin-left: -250px;
+    left: 70px;
+    width: 250px;
+    background: #414042;
+    position: absolute;
+    height: 3000px;
+    z-index: 10;
+    transition: all .4s ease 0s;
+}
+
+#wrapper.active #sidebar-wrapper {
+    left: 250px;
+}
+
+.sidebar_name {
+    padding-top: 25px;
+    color: #fff;
+    opacity: .7;
+}
+
+.sidebar-nav li {
+  line-height: 40px;
+  text-indent: 20px;
+}
+
+.sidebar-nav li a {
+  color: #999999;
+  display: block;
+  text-decoration: none;
+}
+
+.sidebar-nav li a:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.2);
+  text-decoration: none;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+  height: 65px;
+  line-height: 60px;
+  font-size: 18px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+  color: #999999;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+  color: #fff;
+  background: none;
+}
+
+#main_icon
+{
+    float:right;
+   padding-right: 20px;
+   padding-top:20px;
+}
+.sub_icon {
+    float: left;
+    padding-right: 0px;
+    padding-top: 12px;
+}
+.content-header {
+  height: 65px;
+  line-height: 65px;
+}
+
+.content-header h1 {
+  margin: 0;
+  margin-left: 20px;
+  line-height: 65px;
+  display: inline-block;
+}
+
+@media (max-width:767px) {
+    #wrapper {
+    
+    transition: all .4s ease 0s;
+}
+#sidebar-wrapper {
+    left: 50px;
+}
+#wrapper.active {
+    padding-left: 49px!important;
+}
+#wrapper.active #sidebar-wrapper {
+    left: 250px;
+    width: 250px;
+    transition: all .4s ease 0s;
+}
+}
+
+li.active a {
+    color: #B0C5D3!important;
+}
+
+
+@media (max-width: 767px)
+{
+	#sidebar li a {
+    	margin-left: 190px;
+	}
+	#wrapper.active #sidebar-wrapper 
+	{
+    	left: 50px;
+    }
+    #text_menu
+    {
+    	display: none;
+    }
+    span.sub_icon {
+        padding-left: 1px;
+        padding-top: 15px;
+        font-size: 19px;
+     }
+    .container
+    {
+      padding: 0px!important
+    }
+}
+
+
+

@@ -1,0 +1,64 @@
+body
+{
+    padding-right: 0px!important;
+}
+
+button.btn.btn-lg {
+    margin-left: calc(100% - 95px);
+    font-size: 13px!important;
+    padding: 10px!important;
+    margin-top: -22px;
+    font-weight: bold;
+    border-radius: 0px;
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    padding: 4px!important;
+    font-size: 12px!important;
+}
+#example thead th {
+    padding-right: 30px!important;
+    font-size: 12px!important;
+}
+
+div#Modalko {
+    z-index: 9999!important;
+    top: 20px;
+}
+div#Modalok {
+    z-index: 9999!important;
+    top: 20px;
+}
+
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+.form-control, .input-group-addon
+{
+  border-radius: 0px!important;
+}
+.btn {
+    border-radius: 0px!important;
+}
+
+.panel.panel-default {
+    border-radius: 0px!important;
+}
+
+div#example_filter {
+    display: none!important;
+}
+
+div#link_button_site
+{
+    
+    margin-top: 15px;
+}
+.select2-container--default .select2-selection--single {
+    border-radius: 0px!important;
+    height: 34px!important;
+}
+
+span.select2 {
+    width: 100%!important;
+}

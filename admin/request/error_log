@@ -1,0 +1,1 @@
+[28-May-2017 02:31:10 Europe/Lisbon] PHP Warning:  mysqli_connect(): (HY000/2013): Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/oseuback/public_html/la_cigale/admin/connect.php on line 13
